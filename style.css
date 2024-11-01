@@ -1,0 +1,30 @@
+
+#rightside, #tawk_56656b7ad7a97578329c83e1
+{
+	display: inline-block;
+}
+
+#rightside input[type='image'] {
+    margin: 2em auto;
+    width: 15em;
+    display: block;
+}
+
+#rightside {
+	position: absolute;
+	top: 0em;
+	padding: 5em 0em 0em 5em;
+}
+
+#rightside input[type='text'] {
+	width: 100%;
+}
+
+#rightside input[type='image'] {
+	margin: 1.3em 0 0 2.5em;
+}
+
+.tiwsp {
+	display: block;
+	margin: 1.7em auto;
+}
